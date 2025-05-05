@@ -1,2 +1,2 @@
 # herny
-aprendiendo programación 
+aprendiendo programación probando programar 
